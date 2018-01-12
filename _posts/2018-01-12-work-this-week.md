@@ -3,6 +3,7 @@ layout: post
 title: "Work Log w/e 12 Jan 2018"
 date: 2018-01-12
 ---
+<div = "worktable">
 <table border=0 cellpadding=0 cellspacing=0 width=817 style='border-collapse:
  collapse;table-layout:fixed;width:613pt'>
  <col width=253 style='mso-width-source:userset;mso-width-alt:8106;width:190pt'>
@@ -118,3 +119,4 @@ date: 2018-01-12
   <td>space clearing</td>
  </tr>
 </table>
+</div>
