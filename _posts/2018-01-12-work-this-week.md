@@ -4,8 +4,8 @@ title: "Work Log w/e 12 Jan 2018"
 date: 2018-01-12
 ---
 <table class="display">
-<tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl65 width=253 style='height:16.0pt;width:190pt'></td>
+<tr height=21 style='height:16.0pt' class = "display">
+ <td height=21 class=xl65 width=253 style='height:16.0pt;width:190pt'></td>
   <td class=xl65 width=89 style='width:67pt'>JIRA</td>
   <td class=xl65 width=87 style='width:65pt'>This week</td>
   <td class=xl65 width=388 style='width:291pt'>Detail</td>
