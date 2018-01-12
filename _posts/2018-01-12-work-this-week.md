@@ -2,121 +2,27 @@
 layout: post
 title: "Work Log w/e 12 Jan 2018"
 date: 2018-01-12
+datatable: true
 ---
-<div = "worktable">
-<table border=0 cellpadding=0 cellspacing=0 width=817 style='border-collapse:
- collapse;table-layout:fixed;width:613pt'>
- <col width=253 style='mso-width-source:userset;mso-width-alt:8106;width:190pt'>
- <col width=89 style='mso-width-source:userset;mso-width-alt:2858;width:67pt'>
- <col width=87 style='width:65pt'>
- <col width=388 style='mso-width-source:userset;mso-width-alt:12416;width:291pt'>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 class=xl65 width=253 style='height:16.0pt;width:190pt'></td>
-  <td class=xl65 width=89 style='width:67pt'>JIRA</td>
-  <td class=xl65 width=87 style='width:65pt'>This week</td>
-  <td class=xl65 width=388 style='width:291pt'>Detail</td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Admin</td>
-  <td></td>
-  <td align=right>7.5</td>
-  <td>JIRA, backup, High Sierra upgrade, IIIF doc, Managed Macs</td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>DIU LDD review</td>
-  <td>LIB001-2035</td>
-  <td align=right>5</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Archives Space upgrade</td>
-  <td>LIB001-2058</td>
-  <td align=right>5</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>MD Games live-ready</td>
-  <td>LIB001-1971</td>
-  <td align=right>2</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>These Block 16</td>
-  <td>LIB001-2068</td>
-  <td align=right>2</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Exam papers 2017-18 Dec and datafix</td>
-  <td>LIB001-2069</td>
-  <td align=right>2</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Meetings</td>
-  <td></td>
-  <td align=right>2</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Set up github pages site</td>
-  <td>LIB001-2072</td>
-  <td align=right>1.5</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>HEP papers</td>
-  <td>LIB001-1970</td>
-  <td align=right>1</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>AURA Pure connector errors</td>
-  <td>LIB001-2071</td>
-  <td align=right>1</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Dspace support</td>
-  <td></td>
-  <td align=right>1</td>
-  <td>space clearing, user permissions</td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Heriot Watt upgrade</td>
-  <td>LIB001-2036</td>
-  <td align=right>0.5</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>ERA: The Student upload</td>
-  <td>LIB001-2038</td>
-  <td align=right>0.5</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Guardbook dataloads</td>
-  <td>LIB001-2046</td>
-  <td align=right>0.5</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Listen to the Library cron job</td>
-  <td>LIB001-2067</td>
-  <td align=right>0.5</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>St Andrews thumbnail not filtering</td>
-  <td>LIB001-2070</td>
-  <td align=right>0.5</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>LUNA support</td>
-  <td></td>
-  <td align=right>0.5</td>
-  <td>space clearing</td>
- </tr>
-</table>
-</div>
+<div class="datatable-begin"></div>
+	|	JIRA	|	This week	|	Detail
+-----------------------------------	|	--------------	|	----------	|	----------------------------------------------------------------------------
+Admin	|		|	7.5	|	JIRA, backup, High Sierra upgrade, IIIF doc, Managed Macs
+DIU LDD review	|	LIB001-2035	|	5	|	
+Archives Space upgrade	|	LIB001-2058	|	5	|	
+MD Games live-ready	|	LIB001-1971	|	2	|	
+These Block 16	|	LIB001-2068	|	2	|	
+Exam papers 2017-18 Dec and datafix	|	LIB001-2069	|	2	|	
+Meetings	|		|	2	|	
+Set up github pages site	|	LIB001-2072	|	1.5	|	
+HEP papers	|	LIB001-1970	|	1	|	
+AURA Pure connector errors	|	LIB001-2071	|	1	|	
+Dspace support	|		|	1	|	space clearing, user permissions
+Heriot Watt upgrade	|	LIB001-2036	|	0.5	|	
+ERA: The Student upload	|	LIB001-2038	|	0.5	|	
+Guardbook dataloads	|	LIB001-2046	|	0.5	|	
+Listen to the Library cron job	|	LIB001-2067	|	0.5	|	
+St Andrews thumbnail not filtering	|	LIB001-2070	|	0.5	|	
+LUNA support	|		|	0.5	|	space clearing
+
+<div class="datatable-end"></div>
