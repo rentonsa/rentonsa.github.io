@@ -27,14 +27,13 @@ td
 {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    background-color: #979797; 
 }
 table tr td {
-    background-color:red;}
+    background-color:#d0d0d0;}
 table tr td:nth-child(1) {
-    background-color:green;}
+    background-color:#979797;}
 
-#header
+.header
 {
     color:#fff;
     background-color:#000;
