@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Work Log w/e 12 Jan 2018"
+title: "Work Log"
 date: 2018-01-12
 ---
  <tr>
