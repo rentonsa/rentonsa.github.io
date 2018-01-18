@@ -3,13 +3,17 @@ layout: post
 title: "Work Log w/e 12 Jan 2018"
 date: 2018-01-12
 ---
-<table class="display">
-<tr class = "header">
- <td> </td>
-  <td>JIRA</td>
-  <td>This week</td>
-  <td>Detail</td>
- </tr>
+
+<!--<table class="display">-->
+<table class="sortable">
+ <thead>
+   <tr>
+     <th>Activity</th>
+     <th>JIRA</th>
+     <th>This week</th>
+     <th>Detail</th>
+  </tr>
+ </thead>
  <tr>
   <td>Admin</td>
   <td></td>
