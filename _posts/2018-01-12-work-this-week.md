@@ -3,16 +3,6 @@ layout: post
 title: "Work Log w/e 12 Jan 2018"
 date: 2018-01-12
 ---
-
-<table class="display">
- <thead>
-   <tr>
-     <th>Activity</th>
-     <th>JIRA</th>
-     <th>This week</th>
-     <th>Detail</th>
-  </tr>
- </thead>
  <tr>
   <td>Admin</td>
   <td></td>
@@ -115,4 +105,3 @@ date: 2018-01-12
   <td>0.5</td>
   <td>space clearing</td>
  </tr>
-</table>

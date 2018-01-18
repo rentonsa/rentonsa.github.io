@@ -5,5 +5,15 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
+  <table class="display">
+     <thead>
+       <tr>
+         <th>Activity</th>
+    	 <th>JIRA</th>
+    	 <th>This week</th>
+         <th>Detail</th>
+       </tr>
+     </thead>
   {{ content }}
+  </table>
 </div>
