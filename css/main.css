@@ -29,7 +29,7 @@ td
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #979797; 
 }
-tr.header
+#header
 {
     color:#fff;
     background-color:#000;
