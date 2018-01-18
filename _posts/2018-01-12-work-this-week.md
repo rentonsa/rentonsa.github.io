@@ -4,8 +4,7 @@ title: "Work Log w/e 12 Jan 2018"
 date: 2018-01-12
 ---
 
-<!--<table class="display">-->
-<table class="sortable">
+<table class="display">
  <thead>
    <tr>
      <th>Activity</th>
