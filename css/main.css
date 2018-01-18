@@ -29,7 +29,11 @@ td
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #979797; 
 }
-
+tr.header
+{
+    color:#fff;
+    background-color:#000;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;

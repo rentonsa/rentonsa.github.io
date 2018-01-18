@@ -4,8 +4,8 @@ title: "Work Log w/e 12 Jan 2018"
 date: 2018-01-12
 ---
 <table class="display">
-<tr>
- <td ></td>
+<tr class = "header">
+ <td </td>
   <td>JIRA</td>
   <td>This week</td>
   <td>Detail</td>
@@ -73,7 +73,7 @@ date: 2018-01-12
  <tr>
   <td>Dspace support</td>
   <td></td>
-  <td></td>
+  <td>0.5</td>
   <td>space clearing, user permissions</td>
  </tr>
  <tr>
