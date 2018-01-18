@@ -23,6 +23,13 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+td
+{
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background-color: #979797; 
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
