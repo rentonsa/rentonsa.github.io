@@ -5,7 +5,7 @@ date: 2018-01-12
 ---
 <table class="display">
 <tr class = "header">
- <td </td>
+ <td> </td>
   <td>JIRA</td>
   <td>This week</td>
   <td>Detail</td>
