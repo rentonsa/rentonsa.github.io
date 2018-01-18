@@ -29,6 +29,11 @@ td
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #979797; 
 }
+table tr td {
+    background-color:red;}
+table tr td:nth-child(1) {
+    background-color:green;}
+
 #header
 {
     color:#fff;
