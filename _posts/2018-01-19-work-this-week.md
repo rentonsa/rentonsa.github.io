@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Work Log"
-date: 2018-01-12
+date: 2018-01-19
 ---
 <tr><td>Heriot Watt upgrade</td><td>LIB001-2036</td><td>9</td><td></td></tr>
 <tr><td>Meetings</td><td></td><td>7</td><td>Interviews inc.</td></tr>
