@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Work Log"
-date: 2018-01-26
+date: 2018-02-02
 ---
 <tr><td>Archives Space upgrade</td><td>LIB001-2058</td><td>13.5</td><td></td></tr>
 <tr><td>Meetings</td><td></td><td>5</td><td></td></tr>
