@@ -2,7 +2,7 @@
 layout: post
 title: "Work Log"
 date: 2018-04-06
---
+---
 <tr><td>Admin</td><td></td><td>7.5</td><td>Included interviews, JIRA, schema work</td></tr>
 <tr><td>Meetings</td><td></td><td>4</td><td></td></tr>
 <tr><td>St Andrews workflow problems</td><td>LUC656A-5</td><td>3.5</td><td></td></tr>

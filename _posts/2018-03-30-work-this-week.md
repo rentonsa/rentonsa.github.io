@@ -2,7 +2,7 @@
 layout: post
 title: "Work Log"
 date: 2018-03-30
---
+---
 <tr><td>Dspace support</td><td></td><td>9</td><td>Helping Andy with St Andrews, Hrafn with dig pres</td></tr>
 <tr><td>Meetings</td><td></td><td>5</td><td>ADR, LDD & Metadata etc</td></tr>
 <tr><td>Server support</td><td></td><td>5</td><td>certificates, lists</td></tr>

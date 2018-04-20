@@ -2,7 +2,7 @@
 layout: post
 title: "Work Log"
 date: 2018-04-13
---
+---
 <tr><td>Admin</td><td></td><td>7</td><td>JIRA work, schema.org, certs</td></tr>
 <tr><td>Meetings</td><td></td><td>4.5</td><td>Archives Space, SOLR, IIIF, 1-2-1</td></tr>
 <tr><td>Dspace support</td><td></td><td>4</td><td>SWORD v2 etc</td></tr>
