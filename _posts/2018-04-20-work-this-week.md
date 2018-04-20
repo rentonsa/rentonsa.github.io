@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Work Log"
-date: 2018-04-13
+date: 2018-04-20
 ---
 <tr><td>Meetings</td><td></td><td>7</td><td>Inc Funnelback course</td></tr>
 <tr><td>Admin</td><td></td><td>5.5</td><td>Information Security training, schema.org things</td></tr>
