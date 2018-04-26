@@ -4,8 +4,12 @@ body {
 }
 li
 {
-font-family:'Helvetica', 'Arial', 'Sans-Serif';
-font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1em;
+}
+
+ul{
+    font-size: 1em;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
