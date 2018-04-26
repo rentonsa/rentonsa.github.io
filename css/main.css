@@ -2,15 +2,12 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-li
+p ul li
 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1em;
+    font-size: 0.75em;
 }
 
-ul{
-    font-size: 1em;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
