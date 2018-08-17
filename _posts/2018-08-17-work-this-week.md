@@ -11,4 +11,4 @@ date: 2018-08-17
 <tr><td>Cert locations</td><td>LIB001-2103</td><td>0.5</td><td></td></tr>
 <tr><td>RGU input form change</td><td>LUC656A-188</td><td>0.5</td><td></td></tr>
 <tr><td>LUNA teaching rewrite</td><td>LIB001-1372</td><td>0.5</td><td></td></tr>
-<tr><td>Dspace support</td><td></td><td></td><td></td></tr>
+<tr><td>Dspace support</td><td></td><td>0.5</td><td></td></tr>
