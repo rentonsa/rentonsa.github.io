@@ -12,7 +12,7 @@ date: 2019-09-27
 <tr><td>Server support</td><td></td><td>0.5</td><td>LUNA log clearing</td></tr>
 <tr><td>Collections Manager Upgrade</td><td>LUC023A-84</td><td>0.5</td><td></td></tr>
 <tr><td>Vernon support</td><td></td><td>0.5</td><td>Julie-Ann things</td></tr>
-<tr><td>UMIS website set-up</td><td>make jira</td><td>0.5</td><td></td></tr>
+<tr><td>UMIS website set-up</td><td>LUC023A-152</td><td>0.5</td><td></td></tr>
 <tr><td>LUNA Upgrade 7.4.3</td><td>LUC023A-149</td><td>0.5</td><td></td></tr>
 <tr><td>Archives Space 2.6 Upgrade</td><td>LUC024A-30</td><td>0.5</td><td>config file fix</td></tr>
 <tr><td>Archives Space support</td><td></td><td>0.5</td><td>Google Analytics</td></tr>
